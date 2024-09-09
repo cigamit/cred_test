@@ -4,3 +4,5 @@
   tasks:
     - debug:
         var: depot_server
+    - debug:
+        var: depot_register_user
